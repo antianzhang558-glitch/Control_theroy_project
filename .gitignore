@@ -1,0 +1,25 @@
+# MATLAB / Simulink generated files
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+*.slxc
+*.autosave
+*.asv
+*.log
+*.m~
+*.mex*
+codegen/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+
+# OS / editor files
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
+.idea/
