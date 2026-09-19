@@ -114,3 +114,5 @@ Riccati 方程及最终转速。每次运行会更新 motor_lqr_response.png。
 参考：
 - https://www.mathworks.com/help/control/ug/dc-motor-control.html
 - https://www.mathworks.com/help/simulink/slref/statespace.html
+
+[返回项目导航](../README.md)

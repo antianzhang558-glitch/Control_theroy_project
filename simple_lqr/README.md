@@ -53,3 +53,5 @@ run_simple_lqr(1,4) % K=0.5，更重视控制代价，回零更慢，初始 u=-5
 每次运行会更新 `simple_lqr_response.png`，并自动检查仿真是否符合理论解。
 
 官方参考：https://www.mathworks.com/help/control/ref/lti.lqr.html
+
+[返回项目导航](../README.md)
