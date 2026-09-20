@@ -1,0 +1,3 @@
+MATLAB 25.2.0.2998904 (R2025b)
+PASS: compiled and simulated, finite and bounded response.
+Final height: 0.99962423; target: 1; final error: 0.00037577
