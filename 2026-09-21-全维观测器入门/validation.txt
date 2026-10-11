@@ -1,0 +1,8 @@
+MATLAB 25.2.0.2998904 (R2025b)
+Controller poles: -2, -3
+Observer poles: -5, -6
+Max state error vs exact solution: 2.84e-10
+Max observer error residual: 1.11e-10
+Final position: 0.999999794
+Final estimation error norm: 3.01e-18
+PASS

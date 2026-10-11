@@ -1,0 +1,13 @@
+Actual Simulink runs; normalized teaching plant, not Stirling validation.
+Plant: x+=0.9*x+0.1*u; x,u in [0,1]; artificial equilibrium/reference in [0,0.98].
+
+mpct_simple: PASS
+output range [0.000000000, 0.980000000], input range [0.000000000, 1.000000000]
+y at 79,159,240 s = 0.699999998, 0.980000000, 0.300000002
+
+rg_pi_simple: PASS
+output range [0.000000000, 0.979999975], input range [0.000000000, 1.000000000]
+y at 79,159,240 s = 0.699999818, 0.979999968, 0.300000015
+RG 1200-step constant-reference checks at every sample: PASS; max residual -0
+
+Repeat-run initialization: PASS for both models.
