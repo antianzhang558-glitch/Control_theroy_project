@@ -1,0 +1,6 @@
+MATLAB 25.2.0.2998904 (R2025b)
+nominal: PASS | final error=0.000610 rad | peak voltage=24.000 V | peak current=21.114 A | load interval max error=0.024779 rad
+Nominal first-step overshoot=11.119 percent
+inertia_150_percent: PASS | final error=0.000614 rad | peak voltage=24.000 V | peak current=22.548 A | load interval max error=0.025097 rad
+double_load: PASS | final error=0.000735 rad | peak voltage=24.000 V | peak current=20.873 A | load interval max error=0.024779 rad
+large_command: PASS | final error=0.005509 rad | peak voltage=24.000 V | peak current=21.334 A | load interval max error=0.201899 rad
