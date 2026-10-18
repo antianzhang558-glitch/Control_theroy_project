@@ -1,0 +1,7 @@
+MATLAB 25.2.0.2998904 (R2025b)
+49 rules; triangular membership coverage verified at 61 points.
+441 input pairs: finite inference outputs.
+Saved-model reload simulation passed.
+Final output: 0.99996248
+Final error: 0.00003752
+Overshoot: 0.0000 percent

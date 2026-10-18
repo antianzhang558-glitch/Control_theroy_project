@@ -29,3 +29,12 @@ desktop.ini
 
 # Local reading notes and research planning; keep out of project archive
 /2026-09-30-MPC入门模型-01a0eaec/控制理论工作区总笔记.md
+
+# Exclude local learning paperwork and archive backups
+**/*总笔记.md
+**/*学习记录*.md
+**/*协作接续*.md
+**/backup/
+**/*备份*/
+/项目记录/
+/2026-10-16-转速损失第一阶段/目录整理/
