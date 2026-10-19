@@ -38,3 +38,6 @@ desktop.ini
 **/*备份*/
 /项目记录/
 /2026-10-16-转速损失第一阶段/目录整理/
+
+# Machine-specific MATLAB settings and credentials
+**/matlab_preferences/
