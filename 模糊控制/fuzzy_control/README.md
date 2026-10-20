@@ -23,6 +23,6 @@ open_system('blur_control.slx')  % 打开 Simulink 模型
 fuzzyLogicDesigner('myFis.fis')
 ```
 
-本次仅归档，未重新验证原有模型仿真。三角隶属度模糊 PID 是另一个示例，见[使用说明](../../PID控制/2026-09-19-模糊PID模型/README.md)。
+本次仅归档，未重新验证原有模型仿真。三角隶属度模糊 PID 是另一个示例，见[使用说明](../../PID控制/模糊PID/README.md)。
 
 [返回项目导航](../../README.md)

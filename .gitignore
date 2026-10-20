@@ -41,3 +41,11 @@ desktop.ini
 
 # Machine-specific MATLAB settings and credentials
 **/matlab_preferences/
+
+# Content-based local maintenance and personal material
+/项目维护/目录整理/
+/项目维护/历史归档/
+/项目维护/本地运行文件/
+/个人资料/
+/电机基础/
+**/*备份*.md
